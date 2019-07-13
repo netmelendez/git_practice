@@ -11,7 +11,7 @@ A place to hone my git cli ninja skills.
 
 ### Section 3
 
-Swtiched back to master branch and added this text
+This exists on branch master.
 
 
 ### Section 4
