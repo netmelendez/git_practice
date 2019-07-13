@@ -1,2 +1,4 @@
 # git_practice
-A place to hone my git cli ninja skills
+A place to hone my git cli ninja skills.
+
+## Section 1
