@@ -7,7 +7,7 @@ A place to hone my git cli ninja skills.
 
 ### Section 2
 
-
+Added text on new branch.
 
 ### Section 3
 
